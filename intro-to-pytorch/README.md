@@ -10,8 +10,3 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **Part 6:** How to save and load trained models
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
-
-* **Notes:** 
-- In part 2 trainloader use a Stochastic(Mini batch approache) each iteration(Epoch) loader load number of exambles = 64 
-    and our data is image which equal 28x28 pixels and one channel so we need to flatten data(image) 28x28x1 = 784
-    so minibatch = (64, 784) 
