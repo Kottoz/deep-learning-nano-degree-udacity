@@ -1,5 +1,4 @@
-bplist00—_WebMainResource’	
-^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_çhttps://gist.githubusercontent.com/yrevar/942d3a0ac09ec9e5eb3a/raw/238f720ff059c1f82f368259d1ca4ffa5dd8f9f5/imagenet1000_clsidx_to_labels.txtPOwÃ<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">{0: 'tench, Tinca tinca',
+classes = {0: 'tench, Tinca tinca',
  1: 'goldfish, Carassius auratus',
  2: 'great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias',
  3: 'tiger shark, Galeocerdo cuvieri',
@@ -998,4 +997,4 @@ bplist00—_WebMainResource’
  996: 'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa',
  997: 'bolete',
  998: 'ear, spike, capitulum',
- 999: 'toilet tissue, toilet paper, bathroom tissue'}</pre></body></html>Ztext/plainUUTF-8    ( 7 N ` v î$%xıy                            y
+ 999: 'toilet tissue, toilet paper, bathroom tissue'}
